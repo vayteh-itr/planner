@@ -1,0 +1,9 @@
+#cnv {
+    width: 90%;
+    height: 100vh;
+}
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
